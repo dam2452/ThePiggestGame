@@ -24,7 +24,7 @@ The project is currently **on hold** due to a lack of satisfying **pixel art** a
 However, the game **may be revisited** in the future once better assets are available and other projects are completed.
 
 ### Demo Video:
-[**YouTube Demo**](https://youtube.com/your-demo-link)
+[**YouTube Demo**](https://youtu.be/apk5Az3R4ts?feature=shared)
 
 ### Collaboration:
 If you're interested in helping with the project, feel free to **reach out**! Whether it's **art, programming, or gameplay ideas**, all contributions are welcome.
