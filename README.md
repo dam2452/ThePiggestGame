@@ -24,7 +24,9 @@ The project is currently **on hold** due to a lack of satisfying **pixel art** a
 However, the game **may be revisited** in the future once better assets are available and other projects are completed.
 
 ### Demo Video:
-[**YouTube Demo**](https://youtu.be/apk5Az3R4ts?feature=shared)
+[**YouTube Demo**](https://youtu.be/apk5Az3R4ts?feature=shared) <---
+
+<img width="2557" height="1392" alt="Zrzut ekranu 2025-10-15 162956" src="https://github.com/user-attachments/assets/60addd3c-f2fe-42f4-b0b9-00f44b2afef3" />
 
 ### Collaboration:
 If you're interested in helping with the project, feel free to **reach out**! Whether it's **art, programming, or gameplay ideas**, all contributions are welcome.
